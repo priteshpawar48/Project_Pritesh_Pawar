@@ -1,0 +1,128 @@
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.card{
+    background-image:url(Images/black-adam.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card1{
+    background-image:url(Images/resident-evil.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+
+}
+
+.card2{
+    background-image:url(Images/terminator_dark_fate.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card3{
+    background-image:url(Images/THE_HERo.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card4{
+    background-image:url(Images/john-wick-amoled-5120x2880-14686.png);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card5{
+    background-image:url(Images/brie-larson-the-5120x2880-13266.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card6{
+    background-image:url(Images/blue-beetle-13895x4320-12985.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card7{
+    background-image:url(Images/KGF.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.card8{
+    background-image:url(Images/kung-fu-panda-4-5120x2880-13895.jpg);
+    background-size:400px;
+    padding: 2px;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  font-weight:400 ;
+  color: white;
+  
+}
+
+.play{
+    padding-top: 100px;
+}
+
+.like{
+    padding-right: 3px;
+    padding-left: 6px;
+    
+}
+
+.dislike{
+    padding-left: 3px;
+    
+}
